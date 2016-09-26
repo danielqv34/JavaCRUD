@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - DQUIROZ@localhost" uuid="619a9ed7-2e57-4edb-9d1d-f46c72b44abe">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\DANIELQUIROZV:1433;databaseName=DQUIROZ</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - @localhost" uuid="4bd5cace-65b8-4cf5-be1d-2cc190a6bdfc">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/springcrud</jdbc-url>
+    </data-source>
+  </component>
+</project>
